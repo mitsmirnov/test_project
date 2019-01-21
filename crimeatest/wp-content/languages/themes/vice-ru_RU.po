@@ -1,0 +1,60 @@
+# Translation of Themes - vice in Russian
+# This file is distributed under the same license as the Themes - vice package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-09-18 11:35:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - vice\n"
+
+#. Description of the plugin/theme
+msgid "A Business theme ideal for creating sites for corporate, creative businesses, small businesses, startups, portfolios, restaurants, online agencies, firms, freelancers, real estate agencies, travel, photography, recipes, design, art, law and architect firms. Vice is a child theme of the Appointment theme, and has several sections such as slider, services, widget area, etc. Vice offers a beautifully designed masonry blog layout. For more details, visit this link https://wordpress.org/themes/appointment/. We hope you will find the Vice theme useful."
+msgstr "Бизнес-тема, идеальная для создания корпоративных сайтов, сайтов креативных компаний, малого бизнеса, стартапов, портфолио, ресторанов, онлайн-агентств, фирм, фрилансеров, агентств недвижимости, туристических агенств, фотосайтов, сайтов с рецептами, сайтов про дизайн, искусство, право или архитектуру. Vice — дочерняя тема темы Appointment и содержит несколько секций, таких как слайдер, услуги, область виджетов и т.д. Vice отличается красивым плиточным дизайном. Подробности можно узнать по ссылке https://wordpress.org/themes/appointment/. Мы надеемся, тема Vice вам пригодится."
+
+#. Theme Name of the plugin/theme
+msgid "vice"
+msgstr "Vice"
+
+#: home.php:28
+msgid "In"
+msgstr "В"
+
+#: home.php:23
+msgid "Posted"
+msgstr "Опубликовано"
+
+#: home.php:22
+msgid "By"
+msgstr "Автор: "
+
+#: functions/custom_control/class-dummy-import-control.php:13
+msgid "Getting started"
+msgstr "Приступить к работе"
+
+#: functions/custom_control/class-dummy-import-control.php:12
+msgid "Welcome! Thank you for choosing the Vice theme. Use our homepage to make the most out of it. For instructions, follow the button."
+msgstr "Добро пожаловать! Спасибо за выбор темы Vice. Используйте нашу стартовую страницу для полного функционала. Чтобы получить инструкции, воспользуйтесь кнопкой."
+
+#: functions/custom_control/class-dummy-import-control.php:9
+msgid "Activate Homepage"
+msgstr "Активировать главную страницу"
+
+#: home.php:32
+msgid "Read More"
+msgstr "Читать далее"
+
+#. Theme URI of the plugin/theme
+msgid "https://webriti.com/vice-wordpress-page/"
+msgstr "https://webriti.com/vice-wordpress-page/"
+
+#. Author URI of the plugin/theme
+msgid "https://www.webriti.com"
+msgstr "https://www.webriti.com"
+
+#. Author of the plugin/theme
+msgid "webriti"
+msgstr "webriti"
